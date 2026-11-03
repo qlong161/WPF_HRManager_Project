@@ -17,7 +17,7 @@
 * **Họ và tên:** Nguyễn Hữu Quang Long
 * **Mã sinh viên:** 23010309
 * **Họ và tên:** Trần Hoàng Mạnh
-* **Mã sinh viên:** 23010309
+* **Mã sinh viên:** 23010327
 * **Họ và tên:** Phạm Khắc Hùng
 * **Mã sinh viên:** 23010309
 
