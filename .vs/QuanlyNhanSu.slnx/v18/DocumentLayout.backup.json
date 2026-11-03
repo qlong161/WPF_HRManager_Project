@@ -1,0 +1,618 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|c:\\users\\longdeptrai\\source\\repos\\quanlynhansu\\quanlynhansu\\themnhanvien.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|solutionrelative:quanlynhansu\\themnhanvien.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|c:\\users\\longdeptrai\\source\\repos\\quanlynhansu\\quanlynhansu\\themnhanvien.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|solutionrelative:quanlynhansu\\themnhanvien.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|c:\\users\\longdeptrai\\source\\repos\\quanlynhansu\\quanlynhansu\\quanlynhanvien.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|solutionrelative:quanlynhansu\\quanlynhanvien.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|c:\\users\\longdeptrai\\source\\repos\\quanlynhansu\\quanlynhansu\\quanlynhanvien.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|solutionrelative:quanlynhansu\\quanlynhanvien.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|c:\\users\\longdeptrai\\source\\repos\\quanlynhansu\\quanlynhansu\\quanlynhanluc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|solutionrelative:quanlynhansu\\quanlynhanluc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|c:\\users\\longdeptrai\\source\\repos\\quanlynhansu\\quanlynhansu\\quanlynhanluc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|solutionrelative:quanlynhansu\\quanlynhanluc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|c:\\users\\longdeptrai\\source\\repos\\quanlynhansu\\quanlynhansu\\quanlynghiphep.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|solutionrelative:quanlynhansu\\quanlynghiphep.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|c:\\users\\longdeptrai\\source\\repos\\quanlynhansu\\quanlynhansu\\quanlynghiphep.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|solutionrelative:quanlynhansu\\quanlynghiphep.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|c:\\users\\longdeptrai\\source\\repos\\quanlynhansu\\quanlynhansu\\quanlydanhmuc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|solutionrelative:quanlynhansu\\quanlydanhmuc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|c:\\users\\longdeptrai\\source\\repos\\quanlynhansu\\quanlynhansu\\quanlydanhmuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|solutionrelative:quanlynhansu\\quanlydanhmuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|c:\\users\\longdeptrai\\source\\repos\\quanlynhansu\\quanlynhansu\\quanlychamcong.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|solutionrelative:quanlynhansu\\quanlychamcong.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|c:\\users\\longdeptrai\\source\\repos\\quanlynhansu\\quanlynhansu\\quanlychamcong.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|solutionrelative:quanlynhansu\\quanlychamcong.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|c:\\users\\longdeptrai\\source\\repos\\quanlynhansu\\quanlynhansu\\quanlycalam.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|solutionrelative:quanlynhansu\\quanlycalam.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|c:\\users\\longdeptrai\\source\\repos\\quanlynhansu\\quanlynhansu\\quanlycalam.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|solutionrelative:quanlynhansu\\quanlycalam.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|c:\\users\\longdeptrai\\source\\repos\\quanlynhansu\\quanlynhansu\\phancawindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|solutionrelative:quanlynhansu\\phancawindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|c:\\users\\longdeptrai\\source\\repos\\quanlynhansu\\quanlynhansu\\phancawindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|solutionrelative:quanlynhansu\\phancawindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|c:\\users\\longdeptrai\\source\\repos\\quanlynhansu\\quanlynhansu\\nghipheppopup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|solutionrelative:quanlynhansu\\nghipheppopup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|c:\\users\\longdeptrai\\source\\repos\\quanlynhansu\\quanlynhansu\\nghipheppopup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|solutionrelative:quanlynhansu\\nghipheppopup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|c:\\users\\longdeptrai\\source\\repos\\quanlynhansu\\quanlynhansu\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|solutionrelative:quanlynhansu\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|c:\\users\\longdeptrai\\source\\repos\\quanlynhansu\\quanlynhansu\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|solutionrelative:quanlynhansu\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|c:\\users\\longdeptrai\\source\\repos\\quanlynhansu\\quanlynhansu\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|solutionrelative:quanlynhansu\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|c:\\users\\longdeptrai\\source\\repos\\quanlynhansu\\quanlynhansu\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|solutionrelative:quanlynhansu\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|c:\\users\\longdeptrai\\source\\repos\\quanlynhansu\\quanlynhansu\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|solutionrelative:quanlynhansu\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|c:\\users\\longdeptrai\\source\\repos\\quanlynhansu\\quanlynhansu\\chamcongpopup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|solutionrelative:quanlynhansu\\chamcongpopup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|c:\\users\\longdeptrai\\source\\repos\\quanlynhansu\\quanlynhansu\\chamcongpopup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|solutionrelative:quanlynhansu\\chamcongpopup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|c:\\users\\longdeptrai\\source\\repos\\quanlynhansu\\quanlynhansu\\capnhatnhanluc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|solutionrelative:quanlynhansu\\capnhatnhanluc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|c:\\users\\longdeptrai\\source\\repos\\quanlynhansu\\quanlynhansu\\capnhatnhanluc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|solutionrelative:quanlynhansu\\capnhatnhanluc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\quanlynhansu\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|solutionrelative:quanlynhansu\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|c:\\users\\longdeptrai\\source\\repos\\quanlynhansu\\quanlynhansu\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|solutionrelative:quanlynhansu\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|c:\\users\\longdeptrai\\source\\repos\\quanlynhansu\\quanlynhansu\\classes\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|solutionrelative:quanlynhansu\\classes\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|c:\\users\\longdeptrai\\source\\repos\\quanlynhansu\\quanlynhansu\\classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|solutionrelative:quanlynhansu\\classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|c:\\users\\longdeptrai\\source\\repos\\quanlynhansu\\quanlynhansu\\classes\\waveshift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|solutionrelative:quanlynhansu\\classes\\waveshift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|c:\\users\\longdeptrai\\source\\repos\\quanlynhansu\\quanlynhansu\\classes\\manpower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|solutionrelative:quanlynhansu\\classes\\manpower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|c:\\users\\longdeptrai\\source\\repos\\quanlynhansu\\quanlynhansu\\classes\\inout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|solutionrelative:quanlynhansu\\classes\\inout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|c:\\users\\longdeptrai\\source\\repos\\quanlynhansu\\quanlynhansu\\classes\\break.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|solutionrelative:quanlynhansu\\classes\\break.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|c:\\users\\longdeptrai\\source\\repos\\quanlynhansu\\quanlynhansu\\classes\\activityitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0788301-BE76-46AD-8231-38EE6B09D905}|QuanlyNhanSu\\QuanlyNhanSu.csproj|solutionrelative:quanlynhansu\\classes\\activityitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuanlyNhanLuc.xaml",
+              "DocumentMoniker": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\QuanlyNhanLuc.xaml",
+              "RelativeDocumentMoniker": "QuanlyNhanSu\\QuanlyNhanLuc.xaml",
+              "ToolTip": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\QuanlyNhanLuc.xaml",
+              "RelativeToolTip": "QuanlyNhanSu\\QuanlyNhanLuc.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-03T15:36:43.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuanlyNhanLuc.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\QuanlyNhanLuc.xaml.cs",
+              "RelativeDocumentMoniker": "QuanlyNhanSu\\QuanlyNhanLuc.xaml.cs",
+              "ToolTip": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\QuanlyNhanLuc.xaml.cs",
+              "RelativeToolTip": "QuanlyNhanSu\\QuanlyNhanLuc.xaml.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAswHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T14:55:23.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuanlyNhanVien.xaml",
+              "DocumentMoniker": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\QuanlyNhanVien.xaml",
+              "RelativeDocumentMoniker": "QuanlyNhanSu\\QuanlyNhanVien.xaml",
+              "ToolTip": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\QuanlyNhanVien.xaml",
+              "RelativeToolTip": "QuanlyNhanSu\\QuanlyNhanVien.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-03T14:12:34.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuanlyNhanVien.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\QuanlyNhanVien.xaml.cs",
+              "RelativeDocumentMoniker": "QuanlyNhanSu\\QuanlyNhanVien.xaml.cs",
+              "ToolTip": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\QuanlyNhanVien.xaml.cs",
+              "RelativeToolTip": "QuanlyNhanSu\\QuanlyNhanVien.xaml.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAIwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T14:12:39.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ThemNhanVien.xaml",
+              "DocumentMoniker": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\ThemNhanVien.xaml",
+              "RelativeDocumentMoniker": "QuanlyNhanSu\\ThemNhanVien.xaml",
+              "ToolTip": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\ThemNhanVien.xaml",
+              "RelativeToolTip": "QuanlyNhanSu\\ThemNhanVien.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-03T14:17:36.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThemNhanVien.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\ThemNhanVien.xaml.cs",
+              "RelativeDocumentMoniker": "QuanlyNhanSu\\ThemNhanVien.xaml.cs",
+              "ToolTip": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\ThemNhanVien.xaml.cs",
+              "RelativeToolTip": "QuanlyNhanSu\\ThemNhanVien.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T14:17:49.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QuanlyNghiPhep.xaml",
+              "DocumentMoniker": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\QuanlyNghiPhep.xaml",
+              "RelativeDocumentMoniker": "QuanlyNhanSu\\QuanlyNghiPhep.xaml",
+              "ToolTip": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\QuanlyNghiPhep.xaml",
+              "RelativeToolTip": "QuanlyNhanSu\\QuanlyNghiPhep.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-03T14:25:33.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QuanlyDanhMuc.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\QuanlyDanhMuc.xaml.cs",
+              "RelativeDocumentMoniker": "QuanlyNhanSu\\QuanlyDanhMuc.xaml.cs",
+              "ToolTip": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\QuanlyDanhMuc.xaml.cs",
+              "RelativeToolTip": "QuanlyNhanSu\\QuanlyDanhMuc.xaml.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAIwJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T15:35:51.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QuanlyDanhMuc.xaml",
+              "DocumentMoniker": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\QuanlyDanhMuc.xaml",
+              "RelativeDocumentMoniker": "QuanlyNhanSu\\QuanlyDanhMuc.xaml",
+              "ToolTip": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\QuanlyDanhMuc.xaml",
+              "RelativeToolTip": "QuanlyNhanSu\\QuanlyDanhMuc.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-03T15:35:43.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "QuanlyCaLam.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\QuanlyCaLam.xaml.cs",
+              "RelativeDocumentMoniker": "QuanlyNhanSu\\QuanlyCaLam.xaml.cs",
+              "ToolTip": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\QuanlyCaLam.xaml.cs",
+              "RelativeToolTip": "QuanlyNhanSu\\QuanlyCaLam.xaml.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T15:34:33.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "QuanlyCaLam.xaml",
+              "DocumentMoniker": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\QuanlyCaLam.xaml",
+              "RelativeDocumentMoniker": "QuanlyNhanSu\\QuanlyCaLam.xaml",
+              "ToolTip": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\QuanlyCaLam.xaml",
+              "RelativeToolTip": "QuanlyNhanSu\\QuanlyCaLam.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-03T15:34:24.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuanlyNghiPhep.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\QuanlyNghiPhep.xaml.cs",
+              "RelativeDocumentMoniker": "QuanlyNhanSu\\QuanlyNghiPhep.xaml.cs",
+              "ToolTip": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\QuanlyNghiPhep.xaml.cs",
+              "RelativeToolTip": "QuanlyNhanSu\\QuanlyNghiPhep.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T14:25:52.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PhanCaWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\PhanCaWindow.xaml.cs",
+              "RelativeDocumentMoniker": "QuanlyNhanSu\\PhanCaWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\PhanCaWindow.xaml.cs",
+              "RelativeToolTip": "QuanlyNhanSu\\PhanCaWindow.xaml.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T15:34:12.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PhanCaWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\PhanCaWindow.xaml",
+              "RelativeDocumentMoniker": "QuanlyNhanSu\\PhanCaWindow.xaml",
+              "ToolTip": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\PhanCaWindow.xaml",
+              "RelativeToolTip": "QuanlyNhanSu\\PhanCaWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-03T15:34:02.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "QuanlyChamCong.xaml",
+              "DocumentMoniker": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\QuanlyChamCong.xaml",
+              "RelativeDocumentMoniker": "QuanlyNhanSu\\QuanlyChamCong.xaml",
+              "ToolTip": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\QuanlyChamCong.xaml",
+              "RelativeToolTip": "QuanlyNhanSu\\QuanlyChamCong.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-03T14:23:08.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QuanlyChamCong.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\QuanlyChamCong.xaml.cs",
+              "RelativeDocumentMoniker": "QuanlyNhanSu\\QuanlyChamCong.xaml.cs",
+              "ToolTip": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\QuanlyChamCong.xaml.cs",
+              "RelativeToolTip": "QuanlyNhanSu\\QuanlyChamCong.xaml.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAswAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T14:23:14.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "QuanlyNhanSu\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "QuanlyNhanSu\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAswIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T15:18:23.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "QuanlyNhanSu\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\LoginWindow.xaml",
+              "RelativeToolTip": "QuanlyNhanSu\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-03T15:18:21.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "QuanlyNhanSu\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\MainWindow.xaml",
+              "RelativeToolTip": "QuanlyNhanSu\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-03T14:59:09.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "QuanlyNhanSu\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\MainWindow.xaml.cs",
+              "RelativeToolTip": "QuanlyNhanSu\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAPwAAAAAAAAAAAAiwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T14:27:47.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NghiPhepPopup.xaml",
+              "DocumentMoniker": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\NghiPhepPopup.xaml",
+              "RelativeDocumentMoniker": "QuanlyNhanSu\\NghiPhepPopup.xaml",
+              "ToolTip": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\NghiPhepPopup.xaml",
+              "RelativeToolTip": "QuanlyNhanSu\\NghiPhepPopup.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-03T14:26:17.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NghiPhepPopup.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\NghiPhepPopup.xaml.cs",
+              "RelativeDocumentMoniker": "QuanlyNhanSu\\NghiPhepPopup.xaml.cs",
+              "ToolTip": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\NghiPhepPopup.xaml.cs",
+              "RelativeToolTip": "QuanlyNhanSu\\NghiPhepPopup.xaml.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T14:26:32.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "QuanlyNhanSu\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\DatabaseHelper.cs",
+              "RelativeToolTip": "QuanlyNhanSu\\DatabaseHelper.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAYwIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T14:23:59.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ChamCongPopup.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\ChamCongPopup.xaml.cs",
+              "RelativeDocumentMoniker": "QuanlyNhanSu\\ChamCongPopup.xaml.cs",
+              "ToolTip": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\ChamCongPopup.xaml.cs",
+              "RelativeToolTip": "QuanlyNhanSu\\ChamCongPopup.xaml.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAkwKgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T14:23:59.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ChamCongPopup.xaml",
+              "DocumentMoniker": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\ChamCongPopup.xaml",
+              "RelativeDocumentMoniker": "QuanlyNhanSu\\ChamCongPopup.xaml",
+              "ToolTip": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\ChamCongPopup.xaml",
+              "RelativeToolTip": "QuanlyNhanSu\\ChamCongPopup.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-03T14:23:54.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CapNhatNhanLuc.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\CapNhatNhanLuc.xaml.cs",
+              "RelativeDocumentMoniker": "QuanlyNhanSu\\CapNhatNhanLuc.xaml.cs",
+              "ToolTip": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\CapNhatNhanLuc.xaml.cs",
+              "RelativeToolTip": "QuanlyNhanSu\\CapNhatNhanLuc.xaml.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAowHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T14:48:33.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CapNhatNhanLuc.xaml",
+              "DocumentMoniker": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\CapNhatNhanLuc.xaml",
+              "RelativeDocumentMoniker": "QuanlyNhanSu\\CapNhatNhanLuc.xaml",
+              "ToolTip": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\CapNhatNhanLuc.xaml",
+              "RelativeToolTip": "QuanlyNhanSu\\CapNhatNhanLuc.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-03T14:53:15.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\App.xaml.cs",
+              "RelativeDocumentMoniker": "QuanlyNhanSu\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\App.xaml.cs",
+              "RelativeToolTip": "QuanlyNhanSu\\App.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T08:09:29.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\App.xaml",
+              "RelativeDocumentMoniker": "QuanlyNhanSu\\App.xaml",
+              "ToolTip": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\App.xaml",
+              "RelativeToolTip": "QuanlyNhanSu\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-03T15:27:57.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\Classes\\Worker.cs",
+              "RelativeDocumentMoniker": "QuanlyNhanSu\\Classes\\Worker.cs",
+              "ToolTip": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\Classes\\Worker.cs",
+              "RelativeToolTip": "QuanlyNhanSu\\Classes\\Worker.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T14:18:49.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\Classes\\User.cs",
+              "RelativeDocumentMoniker": "QuanlyNhanSu\\Classes\\User.cs",
+              "ToolTip": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\Classes\\User.cs",
+              "RelativeToolTip": "QuanlyNhanSu\\Classes\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T15:27:13.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "WaveShift.cs",
+              "DocumentMoniker": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\Classes\\WaveShift.cs",
+              "RelativeDocumentMoniker": "QuanlyNhanSu\\Classes\\WaveShift.cs",
+              "ToolTip": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\Classes\\WaveShift.cs",
+              "RelativeToolTip": "QuanlyNhanSu\\Classes\\WaveShift.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T15:27:23.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ManPower.cs",
+              "DocumentMoniker": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\Classes\\ManPower.cs",
+              "RelativeDocumentMoniker": "QuanlyNhanSu\\Classes\\ManPower.cs",
+              "ToolTip": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\Classes\\ManPower.cs",
+              "RelativeToolTip": "QuanlyNhanSu\\Classes\\ManPower.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T14:47:34.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Break.cs",
+              "DocumentMoniker": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\Classes\\Break.cs",
+              "RelativeDocumentMoniker": "QuanlyNhanSu\\Classes\\Break.cs",
+              "ToolTip": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\Classes\\Break.cs",
+              "RelativeToolTip": "QuanlyNhanSu\\Classes\\Break.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T15:26:16.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ActivityItem.cs",
+              "DocumentMoniker": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\Classes\\ActivityItem.cs",
+              "RelativeDocumentMoniker": "QuanlyNhanSu\\Classes\\ActivityItem.cs",
+              "ToolTip": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\Classes\\ActivityItem.cs",
+              "RelativeToolTip": "QuanlyNhanSu\\Classes\\ActivityItem.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T15:12:29.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "InOut.cs",
+              "DocumentMoniker": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\Classes\\InOut.cs",
+              "RelativeDocumentMoniker": "QuanlyNhanSu\\Classes\\InOut.cs",
+              "ToolTip": "C:\\Users\\LongDepTrai\\source\\repos\\QuanlyNhanSu\\QuanlyNhanSu\\Classes\\InOut.cs",
+              "RelativeToolTip": "QuanlyNhanSu\\Classes\\InOut.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T15:05:29.692Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

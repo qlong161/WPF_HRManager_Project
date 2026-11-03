@@ -1,0 +1,61 @@
+﻿<Window x:Class="QuanlyNhanSu.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Đăng nhập hệ thống" Height="450" Width="400"
+        WindowStartupLocation="CenterScreen"
+        FontFamily="Segoe UI"
+        Background="#F4F7FB"
+        ResizeMode="NoResize"
+        KeyDown="OnKeyDownHandler">
+
+    <Grid Margin="30">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="0" Text="HR MANAGEMENT" FontSize="24" FontWeight="Bold" 
+                   HorizontalAlignment="Center" Margin="0,20,0,40" Foreground="#172554"/>
+
+        <StackPanel Grid.Row="1" VerticalAlignment="Center">
+            <!-- Username -->
+            <TextBlock Text="Mã nhân viên" Foreground="#64748B" FontSize="12" Margin="0,0,0,5" FontWeight="SemiBold"/>
+            <Border Background="White" BorderBrush="#CBD5E1" BorderThickness="1" CornerRadius="8" Padding="10,8" Margin="0,0,0,20">
+                <TextBox x:Name="txtUsername" BorderThickness="0" Background="Transparent" FontSize="16" Foreground="#1E293B"/>
+            </Border>
+
+            <!-- Password -->
+            <TextBlock Text="Mật khẩu" Foreground="#64748B" FontSize="12" Margin="0,0,0,5" FontWeight="SemiBold"/>
+            <Border Background="White" BorderBrush="#CBD5E1" BorderThickness="1" CornerRadius="8" Padding="10,8" Margin="0,0,0,30">
+                <PasswordBox x:Name="txtPassword" BorderThickness="0" Background="Transparent" FontSize="16" Foreground="#1E293B"/>
+            </Border>
+
+            <!-- Nút Đăng nhập-->
+            <Button x:Name="btnLogin" Height="45" Margin="0,0,0,15" Click="btnLogin_Click" BorderThickness="0" Cursor="Hand">
+                <Button.Template>
+                    <ControlTemplate TargetType="Button">
+                        <Border x:Name="bd" Background="#3B82F6" CornerRadius="8">
+                            <TextBlock Text="Đăng Nhập" Foreground="White" FontSize="16" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="bd" Property="Background" Value="#2563EB"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+
+            <!-- Nút Đăng ký -->
+            <Button x:Name="btnRegister" Content="Chưa có tài khoản? Đăng ký ngay" 
+                    Click="btnRegister_Click" Background="Transparent" BorderThickness="0" Foreground="#3B82F6" Cursor="Hand">
+                <Button.Template>
+                    <ControlTemplate TargetType="Button">
+                        <TextBlock Text="{TemplateBinding Content}" Foreground="{TemplateBinding Foreground}" HorizontalAlignment="Center" TextDecorations="Underline"/>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+        </StackPanel>
+    </Grid>
+</Window>
+    

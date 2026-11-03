@@ -1,0 +1,114 @@
+﻿<UserControl x:Class="QuanlyNhanSu.QuanlyChamCong"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             Background="#F8FAFC" FontFamily="Segoe UI">
+
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Thanh công cụ & Bộ lọc -->
+        <Border Grid.Row="0" Background="White" CornerRadius="10" Padding="15" Margin="0,0,0,15" BorderBrush="#E2E8F0" BorderThickness="1">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+
+                <!-- Nút Chức năng -->
+                <StackPanel Grid.Column="0" Orientation="Horizontal">
+                    <Button x:Name="btnAddInOut" Content="+ Nhập Chấm Công" Width="150" Height="38" Background="#3B82F6" Foreground="White" FontWeight="Bold" BorderThickness="0" Cursor="Hand" Click="btnAddInOut_Click" Margin="0,0,10,0">
+                        <Button.Resources>
+                            <Style TargetType="Border">
+                                <Setter Property="CornerRadius" Value="6"/>
+                            </Style>
+                        </Button.Resources>
+                    </Button>
+                    <Button x:Name="btnDeleteInOut" Content="Xóa bản ghi" Width="120" Height="38" Background="#EF4444" Foreground="White" FontWeight="Bold" BorderThickness="0" Cursor="Hand" Click="btnDeleteInOut_Click">
+                        <Button.Resources>
+                            <Style TargetType="Border">
+                                <Setter Property="CornerRadius" Value="6"/>
+                            </Style>
+                        </Button.Resources>
+                    </Button>
+                </StackPanel>
+
+                <!-- Bộ lọc theo Ngày và Tìm kiếm -->
+                <StackPanel Grid.Column="2" Orientation="Horizontal">
+                    <TextBlock Text="Ngày chấm công:" VerticalAlignment="Center" Margin="0,0,10,0" Foreground="#64748B" FontWeight="SemiBold"/>
+                    <DatePicker x:Name="dpFilterDate" Width="150" Height="38" VerticalContentAlignment="Center" SelectedDateChanged="dpFilterDate_SelectedDateChanged" Margin="0,0,15,0"/>
+
+                    <TextBox x:Name="txtSearch" Width="180" Height="38" Padding="10,0" VerticalContentAlignment="Center" TextChanged="txtSearch_TextChanged"/>
+                    <TextBlock IsHitTestVisible="False" Text="🔍 Tìm Mã NV / Tên..." VerticalAlignment="Center" HorizontalAlignment="Left" Margin="-170,0,0,0" Foreground="#94A3B8">
+                        <TextBlock.Style>
+                            <Style TargetType="TextBlock">
+                                <Setter Property="Visibility" Value="Collapsed"/>
+                                <Style.Triggers>
+                                    <DataTrigger Binding="{Binding Text, ElementName=txtSearch}" Value="">
+                                        <Setter Property="Visibility" Value="Visible"/>
+                                    </DataTrigger>
+                                </Style.Triggers>
+                            </Style>
+                        </TextBlock.Style>
+                    </TextBlock>
+                </StackPanel>
+            </Grid>
+        </Border>
+
+        <!-- Bảng Dữ liệu Chấm Công -->
+        <DataGrid x:Name="dgInOuts" Grid.Row="1" AutoGenerateColumns="False" IsReadOnly="True" 
+                  Background="White" RowHeight="45" HeadersVisibility="Column"
+                  GridLinesVisibility="Horizontal" HorizontalGridLinesBrush="#F1F5F9"
+                  BorderBrush="#E2E8F0" BorderThickness="1"
+                  MouseDoubleClick="dgInOuts_MouseDoubleClick">
+            <DataGrid.Resources>
+                <Style TargetType="DataGridColumnHeader">
+                    <Setter Property="Background" Value="#F8FAFC"/>
+                    <Setter Property="FontWeight" Value="SemiBold"/>
+                    <Setter Property="Foreground" Value="#475569"/>
+                    <Setter Property="Padding" Value="10"/>
+                </Style>
+                <!-- Đổi màu Row dựa trên thuộc tính RowColor (Trạng thái đi muộn/đúng giờ) -->
+                <Style TargetType="DataGridRow">
+                    <Setter Property="Background" Value="{Binding RowColor}"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsSelected" Value="True">
+                            <Setter Property="Background" Value="#E0F2FE"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </DataGrid.Resources>
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="MÃ NV" Binding="{Binding WN}" Width="100"/>
+                <DataGridTextColumn Header="HỌ VÀ TÊN" Binding="{Binding Name}" Width="200"/>
+                <DataGridTextColumn Header="NGÀY" Binding="{Binding Date, StringFormat={}{0:dd/MM/yyyy}}" Width="120"/>
+
+                <DataGridTextColumn Header="GIỜ VÀO CA" Binding="{Binding In_Work}" Width="120">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="FontWeight" Value="Bold"/>
+                            <Setter Property="Foreground" Value="#16A34A"/>
+                            <Setter Property="HorizontalAlignment" Value="Center"/>
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+
+                <DataGridTextColumn Header="GIỜ TAN CA" Binding="{Binding Out_Work}" Width="120">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="FontWeight" Value="Bold"/>
+                            <Setter Property="Foreground" Value="#EF4444"/>
+                            <Setter Property="HorizontalAlignment" Value="Center"/>
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+
+                <DataGridTextColumn Header="CHÚ THÍCH" Binding="{Binding Line}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</UserControl>
+    
