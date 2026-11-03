@@ -16,6 +16,10 @@
 ## 👨‍💻 Tác giả
 * **Họ và tên:** Nguyễn Hữu Quang Long
 * **Mã sinh viên:** 23010309
+* **Họ và tên:** Trần Hoàng Mạnh
+* **Mã sinh viên:** 23010309
+* **Họ và tên:** Phạm Khắc Hùng
+* **Mã sinh viên:** 23010309
 
 ---
 
@@ -38,10 +42,6 @@
 * **Ngôn ngữ:** C# (`.NET Core / .NET Framework`)
 * **Giao diện:** WPF (Windows Presentation Foundation) với Custom Styles/Templates
 * **Cơ sở dữ liệu:** SQLite (`System.Data.SQLite`)
-* **Thư viện bên thứ ba:** 
-  * `ClosedXML` (Xử lý và xuất file Excel)
-  * `QuestPDF` (Thiết kế và xuất báo cáo PDF)
-
 ---
 
 ## 📦 Cấu trúc cơ sở dữ liệu (SQLite)
